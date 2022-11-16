@@ -108,7 +108,7 @@ bool loadOBJ(
 		out_uvs.push_back(uv);
 		out_normals.push_back(normal);
 	}
-	printf("[OBJ LOADER] - Object: %s was loaded successfully.", path);
+	printf("[OBJ LOADER] - Object: %s was loaded successfully.\n", path);
 	fclose(file);
 	return true;
 }

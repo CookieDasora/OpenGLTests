@@ -136,10 +136,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="src\Application.cpp" />
+    <ClCompile Include="src\common\controls.cpp" />
     <ClCompile Include="src\common\load_shader.cpp" />
     <ClCompile Include="src\common\obj_loader.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\common\controls.h" />
     <ClInclude Include="src\common\load_shader.h" />
     <ClInclude Include="src\common\obj_loader.h" />
   </ItemGroup>

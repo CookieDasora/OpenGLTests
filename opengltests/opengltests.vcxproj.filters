@@ -24,12 +24,18 @@
     <ClCompile Include="src\common\obj_loader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\common\controls.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\common\load_shader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\common\obj_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\common\controls.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
