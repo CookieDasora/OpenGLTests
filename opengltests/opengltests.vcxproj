@@ -140,7 +140,6 @@
     <ClCompile Include="src\common\obj_loader.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Application.h" />
     <ClInclude Include="src\common\load_shader.h" />
     <ClInclude Include="src\common\obj_loader.h" />
   </ItemGroup>

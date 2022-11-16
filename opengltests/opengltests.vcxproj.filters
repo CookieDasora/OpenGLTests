@@ -29,9 +29,6 @@
     <ClInclude Include="src\common\load_shader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\Application.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="src\common\obj_loader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
